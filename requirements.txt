@@ -1,0 +1,7 @@
+This file is to keep a record of what all lib we have installed
+1. flask
+2. request //for passing and getting arguments
+3. jsonify  //for reading value passed by postman as body in json format means if its dict or list
+4. render_template //To render a template you can use the render_template() method.
+                    //All you have to do is provide the name of the template and the variables 
+                    //you want to pass to the template engine as keyword arguments.
